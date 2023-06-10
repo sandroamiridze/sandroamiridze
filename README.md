@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandro</h1>
-<h3 align="center">A passionate frontend developer from Georgia 🇬🇪</h3>
+<h3 align="center">A passionate fullstack developer from Georgia 🇬🇪</h3>
 
-- 🔭 I’m currently working on [My Project](wait me!!)
+- 🔭 I’m currently working on [My Project](No Link)
 
 - 🌱 I’m currently learning **React.js, Vue.js, Node.js**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sandora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandora" height="30" width="40" /></a>
+<a href="https://twitter.com/sandora0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandora" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sandro amiridze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandro amiridze" height="30" width="40" /></a>
 <a href="https://fb.com/sandro amiridze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandro amiridze" height="30" width="40" /></a>
 <a href="https://instagram.com/sandora_0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandora_0_0" height="30" width="40" /></a>
