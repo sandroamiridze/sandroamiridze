@@ -67,9 +67,11 @@ I'm a Full Stack Web Developer, 3D Animator and 3D Modeler~
 <br />
 
 ---
+
 <div align = "center">
 <img src = "https://exploringbits.com/wp-content/uploads/2022/01/discord-banner-2.gif">
 </div>
+
 ---
 
 ### Always Log: Hello World ^_~
