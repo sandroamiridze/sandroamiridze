@@ -67,9 +67,9 @@ I'm a Full Stack Web Developer, 3D Animator and 3D Modeler~
 <br />
 
 ---
-
-[![Holo-Pins or smthn](https://holopin.me/ashthetik)](https://holopin.io/@ashthetik)
-
+<div align = "center">
+<img src = "https://exploringbits.com/wp-content/uploads/2022/01/discord-banner-2.gif">
+</div>
 ---
 
 ### Always Log: Hello World ^_~
