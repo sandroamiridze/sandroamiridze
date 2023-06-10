@@ -34,7 +34,7 @@ I'm a Full Stack Web Developer, 3D Animator and 3D Modeler~
 
 - 🔭 I’m currently working on a #WebCompany Project (More To Come Soon)
 
-- 🌱 I’m shortly (as of January 2024) studying my Double Degree in **Bachelor's of Cyber Security** and **Bachelor's of Criminology**
+- 🌱 I’m shortly (as of January 2024) studying**
 
 - 🤝 I’m looking for help with... Nothin' right now!
 
