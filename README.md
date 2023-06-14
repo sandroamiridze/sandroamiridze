@@ -15,7 +15,7 @@
   </div>
   -->
   
-  ![](https://komarev.com/ghpvc/?username=ashthetik&style=for-the-badge&color=ff69b4&label=Profile+Views)
+  ![](https://komarev.com/ghpvc/?username=SandorasW)
   
   <h1>
     Hey There, I'm Sandro!
