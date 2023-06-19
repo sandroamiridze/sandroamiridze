@@ -15,7 +15,7 @@
   </div>
   -->
   
-  ![](https://komarev.com/ghpvc/?username=SandorasW)
+  ![](https://komarev.com/ghpvc/?username=sandroamiridze)
   
   <h1>
     Hey There, I'm Sandro!
