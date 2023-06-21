@@ -34,7 +34,7 @@ I'm a Full Stack Web Developer, 3D Animator and 3D Modeler~
 
 - 🔭 I’m currently working on a #WebCompany Project (More To Come Soon)
 
-- 🌱 I’m studying **
+- 🌱 I’m studying (I have been studying since 2020) **
 
 - 🤝 I’m looking for help with... Nothin' right now!
 
