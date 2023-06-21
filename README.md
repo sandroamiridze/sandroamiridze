@@ -55,6 +55,7 @@ I'm a Full Stack Web Developer, 3D Animator and 3D Modeler~
 
 - Email: webportabledevice@gmail.com  
 - Discord: Sandora#1780
+- LinkedIn: Sandro Amiridze
 <br />
 
 ---
