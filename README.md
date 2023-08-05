@@ -75,6 +75,7 @@ I'm a Full Stack Web Developer, 3D Animator and 3D Modeler~
 
 ---
 <div align="center>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandroamiridze&show_icons=true&theme=radical)
 
 </div>
