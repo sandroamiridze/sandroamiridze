@@ -75,8 +75,10 @@ I'm a Full Stack Web Developer, 3D Animator and 3D Modeler~
 
 ---
 <div align="center>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandroamiridze&show_icons=true&theme=radical)
-  </div>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandroamiridze&show_icons=true&theme=radical)
+  
+</div>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sandroamiridze"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/sandroamiridze" /></a></p><br><br>
 
