@@ -71,9 +71,9 @@ I'm a Full Stack Web Developer, 3D Animator and 3D Modeler~
 
 <div align = "center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandroamiridze&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandroamiridze&show_icons=true&theme=tokyonight)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandroamiridze)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandroamiridze&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
