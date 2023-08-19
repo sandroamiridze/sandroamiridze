@@ -30,7 +30,7 @@
 ---
 
 ### 👩‍💻 About Me:
-I'm a Full Stack Web Developer, 3D Animator and 3D Modeler~
+I'm a Front-End Web Developer, 3D Animator and 3D Modeler~
 
 - 🔭 I’m currently working on a #WebCompany Project (More To Come Soon)
 
