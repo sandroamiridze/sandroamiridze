@@ -11,10 +11,11 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/WyVUsbu6veHvrzVnPY/giphy.gif" />
-</div>
+
 # 💫 About Me:
 🔭 I’m currently working on: **"My Own Linux Distribution"**<br>👯 I’m looking to collaborate on: **"Someone who is better than me"**<br>🤝 I’m looking for help with: **"Its not important"**<br>🌱 I’m currently learning: **"Docker, Cybersecurity, Web Development"**<br>💬 Ask me about: **"Linux And Web Development"**<br>⚡ Fun fact: **"sometimes I write code with one finger"**
 
+</div>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sandroamiridze) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sandroamiridze) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amiridze.sandro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandroamiridze) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sandroamiridze) 
