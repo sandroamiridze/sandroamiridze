@@ -13,7 +13,7 @@
   <img src="https://media.giphy.com/media/WyVUsbu6veHvrzVnPY/giphy.gif" />
 
 # 💫 About Me:
-🔭 I’m currently working on: **"My Own Linux Distribution"**<br>👯 I’m looking to collaborate on: **"Someone who is better than me"**<br>🤝 I’m looking for help with: **"Its not important"**<br>🌱 I’m currently learning: **"Docker, Cybersecurity, Web Development"**<br>💬 Ask me about: **"Linux And Web Development"**<br>⚡ Fun fact: **"sometimes I write code with one finger"**
+🔭 I’m currently working on: **"My Own Linux Distribution"**<br>🤝 I’m looking for help with: **"Its not important"**<br>🌱 I’m currently learning: **"Docker, Cybersecurity, Web Development"**<br>💬 Ask me about: **"Linux And Web Development"**<br>⚡ Fun fact: **"sometimes I write code with one finger"**
 
 </div>
 
